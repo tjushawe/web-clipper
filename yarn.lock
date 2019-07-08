@@ -182,32 +182,32 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@diamondyuan/eslint-config-javascript@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-javascript/download/@diamondyuan/eslint-config-javascript-6.0.0.tgz#38b7167a240df5758db1806901fd3f11b4f6fc6c"
-  integrity sha1-OLcWeiQN9XWNsYBpAf0/EbT2/Gw=
+"@diamondyuan/eslint-config-javascript@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-javascript/-/eslint-config-javascript-7.0.0.tgz#083aeddc91131c97c4f3ecd1d55775f13e8442bd"
+  integrity sha512-jH0Vb918VD1Zmb9GR/CWewMYjLV/s0Mws2m6nJdVEhv4KHH5lTdkiD5OZfBgRnRQwpJBhlAZhYO3DAsAaXsg6w==
 
-"@diamondyuan/eslint-config-react-typescript@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-react-typescript/download/@diamondyuan/eslint-config-react-typescript-6.0.0.tgz#4140cf65580df7f5fe71c59fc297e2a5e4c9216b"
-  integrity sha1-QUDPZVgN9/X+ccWfwpfipeTJIWs=
+"@diamondyuan/eslint-config-react-typescript@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-react-typescript/-/eslint-config-react-typescript-7.0.0.tgz#a04313427fa3478e79d32b5cdf388ae71c1e40ca"
+  integrity sha512-4FiCRsa4nG+jxWQKDMK/wCxB2dZfMOh1/jbXySi6Cf72Effai4bWeRP32lWb/jFLUXVeYGR9fWkvNhnbbPp2Tg==
   dependencies:
-    "@diamondyuan/eslint-config-react" "^6.0.0"
-    "@diamondyuan/eslint-config-typescript" "^6.0.0"
+    "@diamondyuan/eslint-config-react" "^7.0.0"
+    "@diamondyuan/eslint-config-typescript" "^7.0.0"
 
-"@diamondyuan/eslint-config-react@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-react/download/@diamondyuan/eslint-config-react-6.0.0.tgz#bf6c45b69e2c1dcedc970c6424744549e84a4b49"
-  integrity sha1-v2xFtp4sHc7clwxkJHRFSehKS0k=
+"@diamondyuan/eslint-config-react@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-react/-/eslint-config-react-7.0.0.tgz#fc0d5841592af6dfe74aa082bafa37bedd7bd8a5"
+  integrity sha512-VKHL8to56U55q299A+YfbfIwORllEIlyTzMehf/9vqxdwlkQbTYUo5+ZjvaEA/no88z/Dr25AGUQpI9feq0tGw==
   dependencies:
-    "@diamondyuan/eslint-config-javascript" "^6.0.0"
+    "@diamondyuan/eslint-config-javascript" "^7.0.0"
 
-"@diamondyuan/eslint-config-typescript@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-typescript/download/@diamondyuan/eslint-config-typescript-6.0.0.tgz#d48ca9e48c1fbfa102a5e44cce98b61e4d8251ca"
-  integrity sha1-1Iyp5Iwfv6ECpeRMzpi2Hk2CUco=
+"@diamondyuan/eslint-config-typescript@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-typescript/-/eslint-config-typescript-7.0.0.tgz#eb966c2cea0e550368efaccb8cae1ca8d2219b5b"
+  integrity sha512-J4ZMyr1QOsMtOELSp2eEC8dS3zhqcqexj3ihEbEyPlws0rN0/W9CnjNmaLJgwYn0ArSN6qQscxAgd3zfsmV0TQ==
   dependencies:
-    "@diamondyuan/eslint-config-javascript" "^6.0.0"
+    "@diamondyuan/eslint-config-javascript" "^7.0.0"
 
 "@diamondyuan/readability@^0.1.0":
   version "0.1.0"
